@@ -11,7 +11,7 @@
 <a href="https://github.com/goncalvesJoel">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalvesJoel&show_icons=true&icon_color=#e38239&theme=dark&border_radius=50)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvesJoel&layout=compact)](https://github.com/goncalvesJoel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvesJoel&layout=compact)](https://github.com/goncalvesJoel)
     </a>
 </div>
 
